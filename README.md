@@ -1,6 +1,6 @@
 # Library-Management-System
-CSCI 135
-This assignment was to make a simple library management system
+CSCI 135 (Software Analysis and Design I)
+This assignment was to make a simple library management system to manage books and their related information
 
 Assignment details in hw2.pdf file
 PDF is property of Hunter College
